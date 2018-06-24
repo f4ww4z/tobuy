@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">To Buy</string>
+    <string name="currency_symbol">¤</string>
+    <string name="purchase_price">%1$s / item</string>
+    <string name="purchase_total_price">= %1$s</string>
+    <string name="purchase_quantity">x%1$d</string>
+    <string name="delete_all_purchases">Delete all purchases</string>
+    <string name="total_price">Total:</string>
+    <string name="dialog_purchase_add">Add new item</string>
+    <string name="dialog_purchase_update">Update %1$s</string>
+    <string name="dialog_purchase_name">Product name</string>
+    <string name="dialog_purchase_desc">Additional info</string>
+    <string name="price_per_item">Price per item</string>
+    <string name="quantity">Quantity</string>
+
+    <string name="done">Done</string>
+    <string name="yes">Yes</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+
+    <string name="empty_edittext">Must not be empty</string>
+    <string name="dialog_delete_purchases_title">Delete all purchases?</string>
+    <string name="dialog_delete_purchases_message">This action cannot be undone.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303f9f</color>
+    <color name="colorPrimaryDark">#1a237e</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="deleteItem">#E71919</color>
+    <color name="purchaseBgIncluded">#c5cae9</color>
+    <color name="purchaseBg">#e8eaf6</color>
+    <color name="primaryLight">#8c9eff</color>
+</resources>
