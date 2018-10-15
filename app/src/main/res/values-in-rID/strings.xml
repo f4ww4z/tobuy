@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Buy</string>
+    <string name="currency_symbol">¤</string>
+    <string name="purchase_price">%1$s / item</string>
+    <string name="purchase_total_price">= %1$s</string>
+    <string name="purchase_quantity">x%1$d</string>
+    <string name="delete_all_purchases">Hapus semua pembelian</string>
+    <string name="total_price">Total:</string>
+    <string name="dialog_purchase_add">Tambah item baru</string>
+    <string name="dialog_purchase_update">Perbarui %1$s</string>
+    <string name="dialog_purchase_name">Nama produk</string>
+    <string name="dialog_purchase_desc">Info tambahan</string>
+    <string name="price_per_item">Harga per item</string>
+    <string name="quantity">Jumlah</string>
+    <string name="done">Selesai</string>
+    <string name="yes">Ya</string>
+    <string name="add">Tambah</string>
+    <string name="update">Perbarui</string>
+    <string name="empty_edittext">Tidak boleh kosong</string>
+    <string name="dialog_delete_purchases_title">Hapus semua pembelian?</string>
+    <string name="dialog_delete_purchases_message">Aksi berikut tidak bisa dikembalikan.</string>
+</resources>
